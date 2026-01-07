@@ -1,0 +1,39 @@
+{
+  "appearance": {
+    "theme": "lava",
+    "animations_enabled": false,
+    "show_tooltips": false,
+    "window_opacity": 1.0
+  },
+  "performance": {
+    "max_clipboard_items": 50,
+    "cache_enabled": true,
+    "virtual_scrolling": true,
+    "max_display_items": 500
+  },
+  "behavior": {
+    "auto_save_interval": 10,
+    "confirm_deletions": true,
+    "remember_window_positions": true,
+    "enable_plugins": true,
+    "start_in_background": false,
+    "close_quick_paste_after_pasting": true,
+    "use_global_quick_paste": true,
+    "auto_start_windows": false
+  },
+  "network": {
+    "scan_timeout": 30,
+    "max_scan_depth": 5,
+    "concurrent_scans": 4
+  },
+  "shortcuts": {
+    "show_window": "<ctrl>+<shift>+s",
+    "hide_window": "<ctrl>+<shift>+a",
+    "quick_paste": "<ctrl>+<alt>+v",
+    "quick_copy": "<ctrl>+<alt>+c"
+  },
+  "dashboard": {
+    "enabled": false,
+    "password_used": true
+  }
+}

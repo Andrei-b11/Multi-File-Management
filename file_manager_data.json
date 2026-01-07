@@ -1,0 +1,328 @@
+{
+  "items": [
+    {
+      "name": "PHOTO",
+      "path": "C:\\Users\\borde\\OneDrive\\Escritorio\\PHOTO",
+      "is_directory": true,
+      "date_added": "2025-11-22 17:42",
+      "last_modified": "2025-10-13 14:52",
+      "size": null,
+      "description": "",
+      "auto_destination": "",
+      "auto_check_duplicates": true,
+      "auto_rename_pattern": "",
+      "auto_skip_if_exists": true,
+      "auto_create_folder": true,
+      "auto_skip_on_repeat_paste": true,
+      "auto_organize_by_type": false,
+      "auto_compress_large_files": false,
+      "auto_backup": false,
+      "auto_convert_format": false,
+      "auto_extract_metadata": false,
+      "auto_watermark": false,
+      "auto_optimize_images": false,
+      "auto_encrypt": false,
+      "auto_scan_virus": false,
+      "auto_cloud_sync": false,
+      "folder_files_patterns": {},
+      "folder_files_detected": [
+        "C:\\Users\\borde\\OneDrive\\Escritorio\\PHOTO\\desktop.ini"
+      ],
+      "folder_subfolders_detected": [],
+      "folder_subfolders_patterns": null
+    },
+    {
+      "name": "APPS FINISHED",
+      "path": "C:\\Users\\borde\\OneDrive\\Escritorio\\APPS FINISHED",
+      "is_directory": true,
+      "date_added": "2025-11-22 17:42",
+      "last_modified": "2025-10-19 20:22",
+      "size": null,
+      "description": "",
+      "auto_destination": "",
+      "auto_check_duplicates": true,
+      "auto_rename_pattern": "",
+      "auto_skip_if_exists": true,
+      "auto_create_folder": true,
+      "auto_skip_on_repeat_paste": true,
+      "auto_organize_by_type": false,
+      "auto_compress_large_files": false,
+      "auto_backup": false,
+      "auto_convert_format": false,
+      "auto_extract_metadata": false,
+      "auto_watermark": false,
+      "auto_optimize_images": false,
+      "auto_encrypt": false,
+      "auto_scan_virus": false,
+      "auto_cloud_sync": false,
+      "folder_files_patterns": null,
+      "folder_files_detected": null,
+      "folder_subfolders_detected": null,
+      "folder_subfolders_patterns": null
+    },
+    {
+      "name": "APPS IN DEV",
+      "path": "C:\\Users\\borde\\OneDrive\\Escritorio\\APPS IN DEV",
+      "is_directory": true,
+      "date_added": "2025-11-22 17:42",
+      "last_modified": "2025-10-11 16:18",
+      "size": null,
+      "description": "",
+      "auto_destination": "",
+      "auto_check_duplicates": true,
+      "auto_rename_pattern": "",
+      "auto_skip_if_exists": true,
+      "auto_create_folder": true,
+      "auto_skip_on_repeat_paste": true,
+      "auto_organize_by_type": false,
+      "auto_compress_large_files": false,
+      "auto_backup": false,
+      "auto_convert_format": false,
+      "auto_extract_metadata": false,
+      "auto_watermark": false,
+      "auto_optimize_images": false,
+      "auto_encrypt": false,
+      "auto_scan_virus": false,
+      "auto_cloud_sync": false,
+      "folder_files_patterns": null,
+      "folder_files_detected": null,
+      "folder_subfolders_detected": null,
+      "folder_subfolders_patterns": null
+    }
+  ],
+  "favorite_directories": {
+    "Sin Categoría": {
+      "paths": [
+        "C:\\Users\\borde\\OneDrive\\Escritorio\\Protecciones Auxiliares\\protecciones auxiliares.xlsx",
+        "C:\\Users\\borde\\OneDrive\\Escritorio\\Protecciones Auxiliares\\revision planos.xlsx",
+        "C:\\Users\\borde\\OneDrive\\Escritorio\\Protecciones Auxiliares\\Multiwire.sep",
+        "C:\\Users\\borde\\OneDrive\\Escritorio\\mapa modbus\\MAPA MODBUS.txt",
+        "C:\\Users\\borde\\OneDrive\\Escritorio\\mapa modbus\\NVIDIA App.lnk",
+        "C:\\Users\\borde\\OneDrive\\Escritorio\\mapa modbus\\1",
+        "\\\\dc01\\DATOS\\Alejandro\\DOCUMENTOS GUÍA\\MEINS\\Ingenieria\\MULTIWIRE PROTOTIPO\\Prototipo con bloques dinamicos\\MEINS MULTIWIRE_PV XXX_SPS-XXX_XXX_XX.dwg",
+        "C:\\Users\\borde\\OneDrive\\Escritorio\\PDF ANIMATION",
+        "C:\\Users\\borde\\OneDrive\\Escritorio\\Nuevo Documento de texto.txt"
+      ],
+      "color": "#ff6c23",
+      "icon": "📁"
+    }
+  },
+  "last_saved": "2025-12-06T20:03:57.444099",
+  "notes_tasks_data": {
+    "notes": [],
+    "tasks": [],
+    "archived_notes": [],
+    "tags": []
+  },
+  "spreadsheet_data": {
+    "sheets": {
+      "Hoja1": {
+        "data": {
+          "A1": "1",
+          "A2": "2",
+          "I4": "file:///C:/Users/borde/OneDrive/Escritorio/MFM python",
+          "I5": "0",
+          "G8": "file:///C:/Users/borde/OneDrive/Escritorio/MFM python",
+          "J19": "asd",
+          "K19": "asd",
+          "I20": "asd",
+          "J22": "as",
+          "K32": "3.0♪"
+        },
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja2": {
+        "data": {
+          "A1": "12",
+          "B4": "Columna 1",
+          "C4": "Columna 2",
+          "D4": "Columna 3",
+          "C12": "sdfsdfsdfsdfsdfsd"
+        },
+        "formulas": {
+          "A1": "=MES()"
+        },
+        "dependencies": {
+          "A1": []
+        }
+      },
+      "Hoja3": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja4": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja5": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja6": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja7": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja8": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja9": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja10": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja11": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja12": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja13": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja14": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja15": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja16": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja17": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja18": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja19": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja20": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja21": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja22": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja23": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja24": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja25": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja26": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja27": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja28": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja29": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja30": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja31": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja32": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja33": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja34": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja36": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja37": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      },
+      "Hoja38": {
+        "data": {},
+        "formulas": {},
+        "dependencies": {}
+      }
+    },
+    "current_sheet": "Hoja1"
+  }
+}
